@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "id": 1,
+      "name": "Option A",
+      "description": "This is the first option."
+    },
+    {
+      "id": 2,
+      "name": "Option B",
+      "description": "This is the second option."
+    },
+    {
+      "id": 3,
+      "name": "Option C",
+      "description": "This is the third option."
+    }
+  ]
+}
